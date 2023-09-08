@@ -1,5 +1,6 @@
 import Alert from './alert'
 import Footer from './footer'
+import LogoMenuComponent from './logo-menu'
 import Meta from './meta'
 
 type Props = {
@@ -12,10 +13,11 @@ const Layout = ({ preview, children }: Props) => {
     <>
       <Meta />
       <div className="min-h-screen">
-        <Alert preview={preview} />
+        {/* Add menu link to my course website */}
+        <LogoMenuComponent />
         <main>{children}</main>
       </div>
-      <Footer />
+      {/* <Footer /> */}
     </>
   )
 }
