@@ -39,6 +39,9 @@ renderer.paragraph = (text) => {
   if (text.trim().startsWith('<img')) {
     return `<p style="text-align: center; margin-top: 1.5rem; margin-bottom: 1px">${text}</p>`;
   }
+  if (text.trim().startsWith('<Image')) {
+    return `<p style="text-align: center; margin-top: 1.5rem; margin-bottom: 1px">${text}</p>`;
+  }
   return `<p>${text}</p>`;
 };
 

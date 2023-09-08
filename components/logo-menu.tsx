@@ -1,3 +1,4 @@
+import Image from 'next/image';
 import React from 'react';
 
 
@@ -6,7 +7,7 @@ const LogoMenuComponent = ({}) => {
     <div className="container mx-auto px-5">
         <div className="mb-32 flex justify-between items-center p-4">
           <div className="flex-shrink-0">
-            <img src="https://res.cloudinary.com/dqrkrqm9y/image/upload/v1694062052/thecodingpapa_logo.png" alt="Logo" className="h-12" />
+            <Image src="/thecodingpapa_logo.png" width={48} height={48} alt="Logo" className="h-12" />
           </div>
           <div className="flex gap-4">
             <button
