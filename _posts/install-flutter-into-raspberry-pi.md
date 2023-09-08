@@ -2,13 +2,13 @@
 
 title: 'Raspberry Pi에 Flutter 설치'
 excerpt: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus.'
-coverImage: '/cover/gameconsole_bktz60.jpg'
+coverImage: 'https://res.cloudinary.com/dqrkrqm9y/image/upload/v1694062052/thecodingpapa_logo.png'
 date: '2023-09-07T00:01:07.322Z'
 author:
   name: Victor Yang (THE CODING PAPA)
-  picture: 'https://res.cloudinary.com/dqrkrqm9y/image/upload/v1694062052/thecodingpapa_logo.png'
+  picture: 'https://res.cloudinary.com/dqrkrqm9y/image/upload/v1694062052/q_40/thecodingpapa_logo.png'
 ogImage:
-  url: 'https://res.cloudinary.com/dqrkrqm9y/image/upload/v1694062052/thecodingpapa_logo.png'
+  url: 'https://res.cloudinary.com/dqrkrqm9y/image/upload/v1694062052/q_40/thecodingpapa_logo.png'
 
 ---
 
