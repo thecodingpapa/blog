@@ -1,7 +1,7 @@
 ---
 
 title: 'Raspberry Pi에 Flutter 설치'
-excerpt: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus.'
+excerpt: 'Flutter를 라즈베리 파이에 설치하는 것부터 시작해서.'
 coverImage: '/cover/gameconsole_bktz60.jpg'
 date: '2023-09-07T00:01:07.322Z'
 author:

@@ -15,7 +15,7 @@ const Layout = ({ preview, children }: Props) => {
       <div className="min-h-screen">
         {/* Add menu link to my course website */}
         <LogoMenuComponent />
-        <main>{children}</main>
+        <main className='mt-0'>{children}</main>
       </div>
       {/* <Footer /> */}
     </>
