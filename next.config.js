@@ -4,8 +4,8 @@
 const nextConfig = {
     output: 'export',
     images: {
-      domains: ['res.cloudinary.com'],
-      unoptimized: true,
+      loader: 'custom',
+      loaderFile: './img-loader.ts',
     },
     // Optional: Change links `/me` -> `/me/` and emit `/me.html` -> `/me/index.html`
     // trailingSlash: true,
