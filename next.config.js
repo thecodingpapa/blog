@@ -6,6 +6,7 @@ const nextConfig = {
     images: {
       loader: 'custom',
       loaderFile: './img-loader.ts',
+      domains: ['res.cloudinary.com/dqrkrqm9y'],
     },
     // Optional: Change links `/me` -> `/me/` and emit `/me.html` -> `/me/index.html`
     // trailingSlash: true,
