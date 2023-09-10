@@ -2,7 +2,8 @@
   "private": true,
   "scripts": {
     "dev": "next",
-    "build": "next build",
+    "build": "next build && next export",
+    "serve": "npx http-server out",
     "start": "next start",
     "typecheck": "tsc"
   },
@@ -14,6 +15,7 @@
     "marked": "^8.0.1",
     "marked-highlight": "^2.0.5",
     "next": "latest",
+    "next-cloudinary": "^4.21.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "remark": "^14.0.2",

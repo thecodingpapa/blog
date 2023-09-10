@@ -8,7 +8,7 @@ const renderer = new marked.Renderer();
 //use highlight.js to highlight code and use rounded corners for code block
 renderer.code = (code, language) => {
   const validLanguage = hljs.getLanguage(language) ? language : 'plaintext';
-  const highlighted = hljs.highlight(validLanguage, code).value;
+  const highlighted = hljs.highlight(code, { language: validLanguage }).value;
   return `<pre style="background-color: #f1f1f1; white-space: pre-wrap; border-radius: 6px; padding: 12px"><code class="hljs language-${validLanguage}">${highlighted}</code></pre>`;
 };
 

@@ -1,4 +1,5 @@
 import Image from "next/image"
+import cloudinaryLoader from "../img-loader"
 
 type Props = {
   name: string
