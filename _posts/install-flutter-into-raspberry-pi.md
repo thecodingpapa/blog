@@ -2,13 +2,13 @@
 
 title: 'Raspberry Pi에 Flutter 설치'
 excerpt: 'Flutter를 라즈베리 파이에 설치하는 것부터 시작해서.'
-coverImage: 'https://res.cloudinary.com/dqrkrqm9y/image/upload//c_thumb,w_600/v1694064846/cover/gameconsole_bktz60.jpg'
+coverImage: '/cover/gameconsole_bktz60.jpg'
 date: '2023-09-07T00:01:07.322Z'
 author:
   name: Victor Yang (THE CODING PAPA)
-  picture: 'https://res.cloudinary.com/dqrkrqm9y/image/upload//c_thumb,w_60,h_60/v1694062052/thecodingpapa_logo.png'
+  picture: '/thecodingpapa_logo.png'
 ogImage:
-  url: 'https://res.cloudinary.com/dqrkrqm9y/image/upload//c_thumb,w_60,h_60/v1694062052/thecodingpapa_logo.png'
+  url: '/thecodingpapa_logo.png'
 
 ---
 
