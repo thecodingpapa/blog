@@ -1,7 +1,7 @@
 ---
 
 title: 'Raspberry Pi에 Flutter 설치'
-excerpt: 'Flutter를 라즈베리 파이에 설치하는 것부터 시작해서.'
+excerpt: 'Flutter로 자동차를 만들 수 있을까? 게임보이 또는 IOT 제품도 만들 수 있을까? 라즈베리파이... 먹는게 아닌 세상 모든 전자기기 개발의 시작점이라고 할 수 있는 키트입니다. 라즈베리파이에 Flutter를 설치해봅시다.'
 coverImage: '/cover/gameconsole_bktz60.jpg'
 date: '2023-09-08T00:01:07.322Z'
 author:
