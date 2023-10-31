@@ -18,7 +18,7 @@ export default function Index({ allPosts }: Props) {
     <>
       <Layout>
         <Head>
-          <title>{`THE CODING`}</title>
+          <title>{`THE CODING PAPA`}</title>
         </Head>
         <Container>
           {/* <Intro /> */}
