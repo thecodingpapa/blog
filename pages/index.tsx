@@ -17,9 +17,6 @@ export default function Index({ allPosts }: Props) {
   return (
     <>
       <Layout>
-        <Head>
-          <title>{`THE CODING PAPA`}</title>
-        </Head>
         <Container>
           {/* <Intro /> */}
           {heroPost && (

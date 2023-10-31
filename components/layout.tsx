@@ -1,6 +1,4 @@
 import LogoMenuComponent from './logo-menu'
-import classNames from 'classnames';
-import Meta from './meta'
 import useSticky from './sticky';
 
 
@@ -14,7 +12,6 @@ const Layout = ({ preview, children }: Props) => {
   const { sticky, stickyRef } = useSticky();
   return (
     <>
-      <Meta />
       <div className="min-h-screen">
         {/* make LogoMenuComponent sticky */}
         <LogoMenuComponent />
