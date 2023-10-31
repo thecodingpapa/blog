@@ -18,7 +18,7 @@ export default function Index({ allPosts }: Props) {
     <>
       <Layout>
         <Head>
-          <title>{`${CMS_NAME}`}</title>
+          <title>{`THE CODING PAPA`}</title>
         </Head>
         <Container>
           {/* <Intro /> */}
