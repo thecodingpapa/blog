@@ -18,7 +18,8 @@ export default function Index({ allPosts }: Props) {
     <>
       <Layout>
         <Head>
-          <title>{`Next.js Blog Example with ${CMS_NAME}`}</title>
+          <title>{`${CMS_NAME}`}</title>
+          <link rel="thecodingpapa icon" href="favicon/favicon.ico" />
         </Head>
         <Container>
           {/* <Intro /> */}
