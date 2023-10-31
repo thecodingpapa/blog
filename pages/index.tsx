@@ -19,7 +19,6 @@ export default function Index({ allPosts }: Props) {
       <Layout>
         <Head>
           <title>{`${CMS_NAME}`}</title>
-          <link rel="thecodingpapa icon" href="favicon/favicon.ico" />
         </Head>
         <Container>
           {/* <Intro /> */}
