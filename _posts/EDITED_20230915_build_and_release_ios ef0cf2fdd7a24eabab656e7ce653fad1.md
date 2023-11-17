@@ -1,11 +1,3 @@
-# 20230915_build_and_release_ios
-
-Created by: wonjun yang
-Created time: September 15, 2023 9:11 AM
-Progress: Scripting
-Tags: Blog
-
-```markdown
 ---
 
 title: 'iOS Flutter 앱 출시 요약본'
@@ -22,7 +14,6 @@ ogImage:
   url: '/thecodingpapa_logo.png'
 
 ---
-```
 
 # Script
 
